@@ -77,3 +77,5 @@ stress-test/config.json
 result.jpg
 
 build-scripts/update.tar
+
+i18n/build/ja-JP/ui/lbm-ui_ja-JP.po
